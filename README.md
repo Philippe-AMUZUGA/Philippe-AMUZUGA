@@ -5,7 +5,7 @@ Fatigue and structural design · finite-element simulation · machine learning f
 
 I turn finite-element campaigns and test data into short, verifiable design formulas for fatigue and pressure equipment. I hold a PhD in contact mechanics (INSA Lyon, 2016) and have worked at CETIM, the French technical centre for the mechanical industry, since 2017.
 
-## Selected first-author publications, 2022–2026
+## Selected first-author publications
 
 1. **Recursive Multifactor Regression: A machine learning algorithm for pressure vessel nozzle stress estimation through closed-form expressions**  
    P. Amuzuga, J.-L. Iwaniack, M. Bennebach. *Engineering Applications of Artificial Intelligence*, 2026. [doi.org/10.1016/j.engappai.2026.115565](https://doi.org/10.1016/j.engappai.2026.115565)  
@@ -26,6 +26,10 @@ I turn finite-element campaigns and test data into short, verifiable design form
 5. **Open Gear Rolling Contact Fatigue Life Prediction by a Numerical Approach**  
    P. Amuzuga, B. Depale. *Journal of Tribology*, 2022. [doi.org/10.1115/1.4054728](https://doi.org/10.1115/1.4054728)  
    Fatigue tests on open gears showed a 38 % higher surface-pressure load capacity than ISO 6336 predicts; numerical models were built to predict this effect.
+
+6. **Fully Coupled Resolution of Heterogeneous Elastic–Plastic Contact Problem**  
+   K. V. Amuzuga, T. Chaise, A. Duval, D. Nélias. *Journal of Tribology*, 2016. [doi.org/10.1115/1.4032072](https://doi.org/10.1115/1.4032072)  
+   From the PhD thesis, published under the name K. V. Amuzuga: a framework for contact between elastic heterogeneities and an elastic-plastic matrix, used to rank the parameters that set the location and size of the maximum plastic strain.
 
 ## Open source
 
