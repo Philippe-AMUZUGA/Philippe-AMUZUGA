@@ -1,9 +1,13 @@
-# Philippe Amuzuga, PhD
+# Philippe Amuzuga
 
-**Mechanical engineer, CETIM**  
-Fatigue and structural design · finite-element simulation · machine learning for design rules
+**Mechanical engineer, PhD**  
+Mechanics · Machine Learning · Computational Modelling and Simulation · Artificial Intelligence · Contact · Fatigue
 
-I turn finite-element campaigns and test data into short, verifiable design formulas for fatigue and pressure equipment. I hold a PhD in contact mechanics (INSA Lyon, 2016) and have been at CETIM, the French technical centre for the mechanical industry, since 2017.
+My research focuses on verifying the structural integrity of mechanical systems by developing advanced analysis tools, and on using machine learning to exploit physical test data and numerical simulation results.
+
+I have also authored scientific publications on the application of machine learning, in particular to developing or optimising design rules and sizing formulas for mechanical components and structures.
+
+I hold a PhD in contact mechanics (INSA Lyon, 2016) and have been at CETIM, the French Technical Centre for the Mechanical Industries, since 2017.
 
 ## Selected first-author publications
 
